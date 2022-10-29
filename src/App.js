@@ -4,7 +4,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <p>why hello...</p>
+      <h1>My First React App</h1>
+      <p>Welcome :)</p>
+      
     </div>
   );
 }
